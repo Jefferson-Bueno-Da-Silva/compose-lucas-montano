@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">aula2</string>
+    <string name="title_activity_overview_screen">OverviewScreen</string>
+</resources>
